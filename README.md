@@ -1,1 +1,1 @@
-# mephi-1sem-projct
+# mephi-1sem-project
